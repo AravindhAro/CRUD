@@ -1,0 +1,893 @@
+@charset "UTF-8";
+
+element.style {
+}
+html {
+}
+html {
+    box-sizing: border-box;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+user agent stylesheet
+html {
+    display: block;
+    view-transition-name: root;
+}
+
+element.style {
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+head {
+    display: none;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+element.style {
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+element.style {
+    background-color: #8c1406;
+    margin-top: 0px;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.container:after, .container:before, .panel:after, .panel:before, .row:after, .row:before, .row-padding:after, .row-padding:before, .cell-row:before, .cell-row:after, .topnav:after, .topnav:before, .clear:after, .clear:before, .btn-group:before, .btn-group:after, .btn-bar:before, .btn-bar:after, .bar:before, .bar:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+.container:after, .container:before, .panel:after, .panel:before, .row:after, .row:before, .row-padding:after, .row-padding:before, .cell-row:before, .cell-row:after, .topnav:after, .topnav:before, .clear:after, .clear:before, .btn-group:before, .btn-group:after, .btn-bar:before, .btn-bar:after, .bar:before, .bar:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+element.style {
+}
+.topnav {
+    overflow: hidden;
+    /* background-color: #CE011A; */
+    /* margin-top: -53px; */
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.container:after, .container:before, .panel:after, .panel:before, .row:after, .row:before, .row-padding:after, .row-padding:before, .cell-row:before, .cell-row:after, .topnav:after, .topnav:before, .clear:after, .clear:before, .btn-group:before, .btn-group:after, .btn-bar:before, .btn-bar:after, .bar:before, .bar:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+.container:after, .container:before, .panel:after, .panel:before, .row:after, .row:before, .row-padding:after, .row-padding:before, .cell-row:before, .cell-row:after, .topnav:after, .topnav:before, .clear:after, .clear:before, .btn-group:before, .btn-group:after, .btn-bar:before, .btn-bar:after, .bar:before, .bar:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+element.style {
+    background-color: #6A1208;
+    padding-top: 55px;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.container:after, .container:before, .panel:after, .panel:before, .row:after, .row:before, .row-padding:after, .row-padding:before, .cell-row:before, .cell-row:after, .topnav:after, .topnav:before, .clear:after, .clear:before, .btn-group:before, .btn-group:after, .btn-bar:before, .btn-bar:after, .bar:before, .bar:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+.container:after, .container:before, .panel:after, .panel:before, .row:after, .row:before, .row-padding:after, .row-padding:before, .cell-row:before, .cell-row:after, .topnav:after, .topnav:before, .clear:after, .clear:before, .btn-group:before, .btn-group:after, .btn-bar:before, .btn-bar:after, .bar:before, .bar:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+element.style {
+    text-align: center;
+    color: #f6f6f6;
+    padding-top: 50px;
+}
+@media (min-width: 992px)
+.col-md-4 {
+    width: 33.33333333%;
+}
+@media (min-width: 992px)
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: left;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+element.style {
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    margin: 10px 0;
+}
+h3 {
+    font-size: 24px;
+}
+h1, h2, h3, h4, h5, h6, .slim, .wide {
+    font-family:Arial, Helvetica, sans-serif;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+style attribute {
+    text-align: center;
+    color: #f6f6f6;
+    padding-top: 50px;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+element.style {
+    text-align: center;
+}
+@media (min-width: 992px)
+.col-md-4 {
+    width: 33.33333333%;
+}
+@media (min-width: 992px)
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: left;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+element.style {
+    padding: 5px;
+}
+@media (min-width: 992px)
+.col-md-4 {
+    width: 33.33333333%;
+}
+@media (min-width: 992px)
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: left;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.center {
+    text-align: center !important;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+element.style {
+    border-radius: 50%;
+    background-color: yellow;
+    height: 150px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.center {
+    text-align: center !important;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+element.style {
+    padding-bottom: 10px;
+}
+@media (min-width: 1200px)
+.container {
+    width: 1170px;
+}
+@media (min-width: 992px)
+.container {
+    width: 970px;
+}
+@media (min-width: 768px)
+.container {
+    width: 750px;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container {
+    padding: 0.01em 16px;
+}
+.container {
+    padding: 0.01em 16px;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.container:after, .container:before, .panel:after, .panel:before, .row:after, .row:before, .row-padding:after, .row-padding:before, .cell-row:before, .cell-row:after, .topnav:after, .topnav:before, .clear:after, .clear:before, .btn-group:before, .btn-group:after, .btn-bar:before, .btn-bar:after, .bar:before, .bar:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+.container:after, .container:before, .panel:after, .panel:before, .row:after, .row:before, .row-padding:after, .row-padding:before, .cell-row:before, .cell-row:after, .topnav:after, .topnav:before, .clear:after, .clear:before, .btn-group:before, .btn-group:after, .btn-bar:before, .btn-bar:after, .bar:before, .bar:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+element.style {
+}
+@media (min-width: 992px)
+.col-md-12 {
+    width: 100%;
+}
+@media (min-width: 992px)
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: left;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.center {
+    text-align: center !important;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+
+table[Attributes Style] {
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    -webkit-border-horizontal-spacing: 1px;
+    -webkit-border-vertical-spacing: 1px;
+    background-color: rgb(102, 102, 102);
+}
+user agent stylesheet
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: gray;
+}
+.center {
+    text-align: center !important;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}element.style {
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+style attribute {
+    text-align: center;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+.center {
+    text-align: center !important;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+element.style {
+}
+.container-fluid {
+    width: 100%;
+    /* padding: 15px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-center {
+    text-align: center;
+}
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary {
+    display: block;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+footer {
+    display: block;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}element.style {
+    background-color: #333;
+    padding: 25px;
+    color: #f6f6f6;
+    line-height: 1.5;
+    font-size: .8rem;
+}
+@media (min-width: 992px)
+.col-md-12 {
+    width: 100%;
+}
+@media (min-width: 992px)
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: left;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.text-center {
+    text-align: center;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}element.style {
+    padding-top: 20px;
+}
+@media (min-width: 992px)
+.col-md-6 {
+    width: 50%;
+}
+@media (min-width: 992px)
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: left;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+style attribute {
+    background-color: #333;
+    padding: 25px;
+    color: #f6f6f6;
+    line-height: 1.5;
+    font-size: .8rem;
+}
+.text-center {
+    text-align: center;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}lement.style {
+}
+@media (min-width: 992px)
+.col-md-6 {
+    width: 50%;
+}
+@media (min-width: 992px)
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: left;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+style attribute {
+    background-color: #333;
+    padding: 25px;
+    color: #f6f6f6;
+    line-height: 1.5;
+    font-size: .8rem;
+}
+.text-center {
+    text-align: center;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}lement.style {
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+script {
+    display: none;
+}
+.text-center {
+    text-align: center;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}element.style {
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+script {
+    display: none;
+}
+.text-center {
+    text-align: center;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
+element.style {
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+script {
+    display: none;
+}
+.text-center {
+    text-align: center;
+}
+body {
+    margin: 0;
+    background-color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+*, * :before, * :after {
+    box-sizing: inherit;
+}
+
